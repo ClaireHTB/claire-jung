@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @claire-jung
-- 👀 I’m interested in baseball
+- 👋 Hi, I’m @claireHTB
+- 👀 I’m interested in coding and baseball
 - 🌱 I’m currently learning python, java, git ...
 - ✨ fact: Git 공부를 위한 계정이에요. 앞으로 개발자로 나아가기 위해 열심히 공부할게요! : )
